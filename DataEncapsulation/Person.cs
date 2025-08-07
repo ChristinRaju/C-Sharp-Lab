@@ -38,3 +38,4 @@ namespace DataEncapsulation
         }
     }
 }
+// This code defines a Person class with properties for Name and Age.
