@@ -21,4 +21,6 @@ namespace DataEncapsulation
         }
     }
 }
+// This code creates a simple console application that allows the user to input a person's name and age,
+
 
