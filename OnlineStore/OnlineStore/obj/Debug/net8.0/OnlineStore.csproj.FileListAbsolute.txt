@@ -1,0 +1,14 @@
+C:\github\C-Sharp\OnlineStore\OnlineStore\bin\Debug\net8.0\OnlineStore.exe
+C:\github\C-Sharp\OnlineStore\OnlineStore\bin\Debug\net8.0\OnlineStore.deps.json
+C:\github\C-Sharp\OnlineStore\OnlineStore\bin\Debug\net8.0\OnlineStore.runtimeconfig.json
+C:\github\C-Sharp\OnlineStore\OnlineStore\bin\Debug\net8.0\OnlineStore.dll
+C:\github\C-Sharp\OnlineStore\OnlineStore\bin\Debug\net8.0\OnlineStore.pdb
+C:\github\C-Sharp\OnlineStore\OnlineStore\obj\Debug\net8.0\OnlineStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\C-Sharp\OnlineStore\OnlineStore\obj\Debug\net8.0\OnlineStore.AssemblyInfoInputs.cache
+C:\github\C-Sharp\OnlineStore\OnlineStore\obj\Debug\net8.0\OnlineStore.AssemblyInfo.cs
+C:\github\C-Sharp\OnlineStore\OnlineStore\obj\Debug\net8.0\OnlineStore.csproj.CoreCompileInputs.cache
+C:\github\C-Sharp\OnlineStore\OnlineStore\obj\Debug\net8.0\OnlineStore.dll
+C:\github\C-Sharp\OnlineStore\OnlineStore\obj\Debug\net8.0\refint\OnlineStore.dll
+C:\github\C-Sharp\OnlineStore\OnlineStore\obj\Debug\net8.0\OnlineStore.pdb
+C:\github\C-Sharp\OnlineStore\OnlineStore\obj\Debug\net8.0\OnlineStore.genruntimeconfig.cache
+C:\github\C-Sharp\OnlineStore\OnlineStore\obj\Debug\net8.0\ref\OnlineStore.dll
