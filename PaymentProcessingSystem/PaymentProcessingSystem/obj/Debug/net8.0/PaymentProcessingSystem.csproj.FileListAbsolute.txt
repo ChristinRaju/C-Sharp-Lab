@@ -1,0 +1,14 @@
+C:\github\C-Sharp\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\PaymentProcessingSystem.exe
+C:\github\C-Sharp\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\PaymentProcessingSystem.deps.json
+C:\github\C-Sharp\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\PaymentProcessingSystem.runtimeconfig.json
+C:\github\C-Sharp\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\PaymentProcessingSystem.dll
+C:\github\C-Sharp\PaymentProcessingSystem\PaymentProcessingSystem\bin\Debug\net8.0\PaymentProcessingSystem.pdb
+C:\github\C-Sharp\PaymentProcessingSystem\PaymentProcessingSystem\obj\Debug\net8.0\PaymentProcessingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\C-Sharp\PaymentProcessingSystem\PaymentProcessingSystem\obj\Debug\net8.0\PaymentProcessingSystem.AssemblyInfoInputs.cache
+C:\github\C-Sharp\PaymentProcessingSystem\PaymentProcessingSystem\obj\Debug\net8.0\PaymentProcessingSystem.AssemblyInfo.cs
+C:\github\C-Sharp\PaymentProcessingSystem\PaymentProcessingSystem\obj\Debug\net8.0\PaymentProcessingSystem.csproj.CoreCompileInputs.cache
+C:\github\C-Sharp\PaymentProcessingSystem\PaymentProcessingSystem\obj\Debug\net8.0\PaymentProcessingSystem.dll
+C:\github\C-Sharp\PaymentProcessingSystem\PaymentProcessingSystem\obj\Debug\net8.0\refint\PaymentProcessingSystem.dll
+C:\github\C-Sharp\PaymentProcessingSystem\PaymentProcessingSystem\obj\Debug\net8.0\PaymentProcessingSystem.pdb
+C:\github\C-Sharp\PaymentProcessingSystem\PaymentProcessingSystem\obj\Debug\net8.0\PaymentProcessingSystem.genruntimeconfig.cache
+C:\github\C-Sharp\PaymentProcessingSystem\PaymentProcessingSystem\obj\Debug\net8.0\ref\PaymentProcessingSystem.dll
