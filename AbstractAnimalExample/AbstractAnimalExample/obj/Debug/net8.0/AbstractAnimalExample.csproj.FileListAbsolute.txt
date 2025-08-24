@@ -1,0 +1,14 @@
+C:\github\C-Sharp\AbstractAnimalExample\AbstractAnimalExample\bin\Debug\net8.0\AbstractAnimalExample.exe
+C:\github\C-Sharp\AbstractAnimalExample\AbstractAnimalExample\bin\Debug\net8.0\AbstractAnimalExample.deps.json
+C:\github\C-Sharp\AbstractAnimalExample\AbstractAnimalExample\bin\Debug\net8.0\AbstractAnimalExample.runtimeconfig.json
+C:\github\C-Sharp\AbstractAnimalExample\AbstractAnimalExample\bin\Debug\net8.0\AbstractAnimalExample.dll
+C:\github\C-Sharp\AbstractAnimalExample\AbstractAnimalExample\bin\Debug\net8.0\AbstractAnimalExample.pdb
+C:\github\C-Sharp\AbstractAnimalExample\AbstractAnimalExample\obj\Debug\net8.0\AbstractAnimalExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\C-Sharp\AbstractAnimalExample\AbstractAnimalExample\obj\Debug\net8.0\AbstractAnimalExample.AssemblyInfoInputs.cache
+C:\github\C-Sharp\AbstractAnimalExample\AbstractAnimalExample\obj\Debug\net8.0\AbstractAnimalExample.AssemblyInfo.cs
+C:\github\C-Sharp\AbstractAnimalExample\AbstractAnimalExample\obj\Debug\net8.0\AbstractAnimalExample.csproj.CoreCompileInputs.cache
+C:\github\C-Sharp\AbstractAnimalExample\AbstractAnimalExample\obj\Debug\net8.0\AbstractAnimalExample.dll
+C:\github\C-Sharp\AbstractAnimalExample\AbstractAnimalExample\obj\Debug\net8.0\refint\AbstractAnimalExample.dll
+C:\github\C-Sharp\AbstractAnimalExample\AbstractAnimalExample\obj\Debug\net8.0\AbstractAnimalExample.pdb
+C:\github\C-Sharp\AbstractAnimalExample\AbstractAnimalExample\obj\Debug\net8.0\AbstractAnimalExample.genruntimeconfig.cache
+C:\github\C-Sharp\AbstractAnimalExample\AbstractAnimalExample\obj\Debug\net8.0\ref\AbstractAnimalExample.dll
