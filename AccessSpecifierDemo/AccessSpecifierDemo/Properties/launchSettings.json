@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "AccessSpecifierDemo": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

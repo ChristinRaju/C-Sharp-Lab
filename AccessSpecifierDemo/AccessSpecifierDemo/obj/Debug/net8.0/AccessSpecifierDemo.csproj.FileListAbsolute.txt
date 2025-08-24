@@ -1,0 +1,14 @@
+C:\github\C-Sharp\AccessSpecifierDemo\AccessSpecifierDemo\bin\Debug\net8.0\AccessSpecifierDemo.exe
+C:\github\C-Sharp\AccessSpecifierDemo\AccessSpecifierDemo\bin\Debug\net8.0\AccessSpecifierDemo.deps.json
+C:\github\C-Sharp\AccessSpecifierDemo\AccessSpecifierDemo\bin\Debug\net8.0\AccessSpecifierDemo.runtimeconfig.json
+C:\github\C-Sharp\AccessSpecifierDemo\AccessSpecifierDemo\bin\Debug\net8.0\AccessSpecifierDemo.dll
+C:\github\C-Sharp\AccessSpecifierDemo\AccessSpecifierDemo\bin\Debug\net8.0\AccessSpecifierDemo.pdb
+C:\github\C-Sharp\AccessSpecifierDemo\AccessSpecifierDemo\obj\Debug\net8.0\AccessSpecifierDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\C-Sharp\AccessSpecifierDemo\AccessSpecifierDemo\obj\Debug\net8.0\AccessSpecifierDemo.AssemblyInfoInputs.cache
+C:\github\C-Sharp\AccessSpecifierDemo\AccessSpecifierDemo\obj\Debug\net8.0\AccessSpecifierDemo.AssemblyInfo.cs
+C:\github\C-Sharp\AccessSpecifierDemo\AccessSpecifierDemo\obj\Debug\net8.0\AccessSpecifierDemo.csproj.CoreCompileInputs.cache
+C:\github\C-Sharp\AccessSpecifierDemo\AccessSpecifierDemo\obj\Debug\net8.0\AccessSpecifierDemo.dll
+C:\github\C-Sharp\AccessSpecifierDemo\AccessSpecifierDemo\obj\Debug\net8.0\refint\AccessSpecifierDemo.dll
+C:\github\C-Sharp\AccessSpecifierDemo\AccessSpecifierDemo\obj\Debug\net8.0\AccessSpecifierDemo.pdb
+C:\github\C-Sharp\AccessSpecifierDemo\AccessSpecifierDemo\obj\Debug\net8.0\AccessSpecifierDemo.genruntimeconfig.cache
+C:\github\C-Sharp\AccessSpecifierDemo\AccessSpecifierDemo\obj\Debug\net8.0\ref\AccessSpecifierDemo.dll
