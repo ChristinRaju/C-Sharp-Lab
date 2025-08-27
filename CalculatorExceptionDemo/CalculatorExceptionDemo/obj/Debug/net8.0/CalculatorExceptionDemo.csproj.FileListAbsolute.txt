@@ -1,0 +1,14 @@
+C:\github\C-Sharp\CalculatorExceptionDemo\CalculatorExceptionDemo\bin\Debug\net8.0\CalculatorExceptionDemo.exe
+C:\github\C-Sharp\CalculatorExceptionDemo\CalculatorExceptionDemo\bin\Debug\net8.0\CalculatorExceptionDemo.deps.json
+C:\github\C-Sharp\CalculatorExceptionDemo\CalculatorExceptionDemo\bin\Debug\net8.0\CalculatorExceptionDemo.runtimeconfig.json
+C:\github\C-Sharp\CalculatorExceptionDemo\CalculatorExceptionDemo\bin\Debug\net8.0\CalculatorExceptionDemo.dll
+C:\github\C-Sharp\CalculatorExceptionDemo\CalculatorExceptionDemo\bin\Debug\net8.0\CalculatorExceptionDemo.pdb
+C:\github\C-Sharp\CalculatorExceptionDemo\CalculatorExceptionDemo\obj\Debug\net8.0\CalculatorExceptionDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\C-Sharp\CalculatorExceptionDemo\CalculatorExceptionDemo\obj\Debug\net8.0\CalculatorExceptionDemo.AssemblyInfoInputs.cache
+C:\github\C-Sharp\CalculatorExceptionDemo\CalculatorExceptionDemo\obj\Debug\net8.0\CalculatorExceptionDemo.AssemblyInfo.cs
+C:\github\C-Sharp\CalculatorExceptionDemo\CalculatorExceptionDemo\obj\Debug\net8.0\CalculatorExceptionDemo.csproj.CoreCompileInputs.cache
+C:\github\C-Sharp\CalculatorExceptionDemo\CalculatorExceptionDemo\obj\Debug\net8.0\CalculatorExceptionDemo.dll
+C:\github\C-Sharp\CalculatorExceptionDemo\CalculatorExceptionDemo\obj\Debug\net8.0\refint\CalculatorExceptionDemo.dll
+C:\github\C-Sharp\CalculatorExceptionDemo\CalculatorExceptionDemo\obj\Debug\net8.0\CalculatorExceptionDemo.pdb
+C:\github\C-Sharp\CalculatorExceptionDemo\CalculatorExceptionDemo\obj\Debug\net8.0\CalculatorExceptionDemo.genruntimeconfig.cache
+C:\github\C-Sharp\CalculatorExceptionDemo\CalculatorExceptionDemo\obj\Debug\net8.0\ref\CalculatorExceptionDemo.dll
