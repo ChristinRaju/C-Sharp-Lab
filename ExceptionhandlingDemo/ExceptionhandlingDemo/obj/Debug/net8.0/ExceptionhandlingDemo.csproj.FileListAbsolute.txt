@@ -1,0 +1,14 @@
+C:\github\C-Sharp\ExceptionhandlingDemo\ExceptionhandlingDemo\bin\Debug\net8.0\ExceptionhandlingDemo.exe
+C:\github\C-Sharp\ExceptionhandlingDemo\ExceptionhandlingDemo\bin\Debug\net8.0\ExceptionhandlingDemo.deps.json
+C:\github\C-Sharp\ExceptionhandlingDemo\ExceptionhandlingDemo\bin\Debug\net8.0\ExceptionhandlingDemo.runtimeconfig.json
+C:\github\C-Sharp\ExceptionhandlingDemo\ExceptionhandlingDemo\bin\Debug\net8.0\ExceptionhandlingDemo.dll
+C:\github\C-Sharp\ExceptionhandlingDemo\ExceptionhandlingDemo\bin\Debug\net8.0\ExceptionhandlingDemo.pdb
+C:\github\C-Sharp\ExceptionhandlingDemo\ExceptionhandlingDemo\obj\Debug\net8.0\ExceptionhandlingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\C-Sharp\ExceptionhandlingDemo\ExceptionhandlingDemo\obj\Debug\net8.0\ExceptionhandlingDemo.AssemblyInfoInputs.cache
+C:\github\C-Sharp\ExceptionhandlingDemo\ExceptionhandlingDemo\obj\Debug\net8.0\ExceptionhandlingDemo.AssemblyInfo.cs
+C:\github\C-Sharp\ExceptionhandlingDemo\ExceptionhandlingDemo\obj\Debug\net8.0\ExceptionhandlingDemo.csproj.CoreCompileInputs.cache
+C:\github\C-Sharp\ExceptionhandlingDemo\ExceptionhandlingDemo\obj\Debug\net8.0\ExceptionhandlingDemo.dll
+C:\github\C-Sharp\ExceptionhandlingDemo\ExceptionhandlingDemo\obj\Debug\net8.0\refint\ExceptionhandlingDemo.dll
+C:\github\C-Sharp\ExceptionhandlingDemo\ExceptionhandlingDemo\obj\Debug\net8.0\ExceptionhandlingDemo.pdb
+C:\github\C-Sharp\ExceptionhandlingDemo\ExceptionhandlingDemo\obj\Debug\net8.0\ExceptionhandlingDemo.genruntimeconfig.cache
+C:\github\C-Sharp\ExceptionhandlingDemo\ExceptionhandlingDemo\obj\Debug\net8.0\ref\ExceptionhandlingDemo.dll
