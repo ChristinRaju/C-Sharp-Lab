@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SimpleCalculator": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
