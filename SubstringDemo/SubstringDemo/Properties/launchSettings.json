@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SubstringDemo": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
