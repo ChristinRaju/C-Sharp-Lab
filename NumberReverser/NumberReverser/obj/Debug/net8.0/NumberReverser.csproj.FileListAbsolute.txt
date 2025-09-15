@@ -1,0 +1,14 @@
+C:\github\C-Sharp\NumberReverser\NumberReverser\bin\Debug\net8.0\NumberReverser.exe
+C:\github\C-Sharp\NumberReverser\NumberReverser\bin\Debug\net8.0\NumberReverser.deps.json
+C:\github\C-Sharp\NumberReverser\NumberReverser\bin\Debug\net8.0\NumberReverser.runtimeconfig.json
+C:\github\C-Sharp\NumberReverser\NumberReverser\bin\Debug\net8.0\NumberReverser.dll
+C:\github\C-Sharp\NumberReverser\NumberReverser\bin\Debug\net8.0\NumberReverser.pdb
+C:\github\C-Sharp\NumberReverser\NumberReverser\obj\Debug\net8.0\NumberReverser.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\C-Sharp\NumberReverser\NumberReverser\obj\Debug\net8.0\NumberReverser.AssemblyInfoInputs.cache
+C:\github\C-Sharp\NumberReverser\NumberReverser\obj\Debug\net8.0\NumberReverser.AssemblyInfo.cs
+C:\github\C-Sharp\NumberReverser\NumberReverser\obj\Debug\net8.0\NumberReverser.csproj.CoreCompileInputs.cache
+C:\github\C-Sharp\NumberReverser\NumberReverser\obj\Debug\net8.0\NumberReverser.dll
+C:\github\C-Sharp\NumberReverser\NumberReverser\obj\Debug\net8.0\refint\NumberReverser.dll
+C:\github\C-Sharp\NumberReverser\NumberReverser\obj\Debug\net8.0\NumberReverser.pdb
+C:\github\C-Sharp\NumberReverser\NumberReverser\obj\Debug\net8.0\NumberReverser.genruntimeconfig.cache
+C:\github\C-Sharp\NumberReverser\NumberReverser\obj\Debug\net8.0\ref\NumberReverser.dll

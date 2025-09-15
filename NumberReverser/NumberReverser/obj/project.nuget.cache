@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IF1sr3wInok=",
+  "success": true,
+  "projectFilePath": "C:\\github\\C-Sharp\\NumberReverser\\NumberReverser\\NumberReverser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Christin Raju\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
