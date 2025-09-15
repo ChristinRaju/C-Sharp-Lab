@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddEvenChecker", "OddEvenChecker\OddEvenChecker.csproj", "{05BC1CF7-527F-4CF7-8539-6D4F9E1C6232}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05BC1CF7-527F-4CF7-8539-6D4F9E1C6232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05BC1CF7-527F-4CF7-8539-6D4F9E1C6232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05BC1CF7-527F-4CF7-8539-6D4F9E1C6232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05BC1CF7-527F-4CF7-8539-6D4F9E1C6232}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D80A120D-DA15-4D10-AA4C-1CF0DD5FC9B1}
+	EndGlobalSection
+EndGlobal

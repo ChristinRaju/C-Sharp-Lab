@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XaDioBlKdu8=",
+  "success": true,
+  "projectFilePath": "C:\\github\\C-Sharp\\OddEvenChecker\\OddEvenChecker\\OddEvenChecker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Christin Raju\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}

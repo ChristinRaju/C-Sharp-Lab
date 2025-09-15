@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "OddEvenChecker": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

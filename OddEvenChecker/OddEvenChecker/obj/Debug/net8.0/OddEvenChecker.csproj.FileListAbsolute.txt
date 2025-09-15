@@ -1,0 +1,14 @@
+C:\github\C-Sharp\OddEvenChecker\OddEvenChecker\bin\Debug\net8.0\OddEvenChecker.exe
+C:\github\C-Sharp\OddEvenChecker\OddEvenChecker\bin\Debug\net8.0\OddEvenChecker.deps.json
+C:\github\C-Sharp\OddEvenChecker\OddEvenChecker\bin\Debug\net8.0\OddEvenChecker.runtimeconfig.json
+C:\github\C-Sharp\OddEvenChecker\OddEvenChecker\bin\Debug\net8.0\OddEvenChecker.dll
+C:\github\C-Sharp\OddEvenChecker\OddEvenChecker\bin\Debug\net8.0\OddEvenChecker.pdb
+C:\github\C-Sharp\OddEvenChecker\OddEvenChecker\obj\Debug\net8.0\OddEvenChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\C-Sharp\OddEvenChecker\OddEvenChecker\obj\Debug\net8.0\OddEvenChecker.AssemblyInfoInputs.cache
+C:\github\C-Sharp\OddEvenChecker\OddEvenChecker\obj\Debug\net8.0\OddEvenChecker.AssemblyInfo.cs
+C:\github\C-Sharp\OddEvenChecker\OddEvenChecker\obj\Debug\net8.0\OddEvenChecker.csproj.CoreCompileInputs.cache
+C:\github\C-Sharp\OddEvenChecker\OddEvenChecker\obj\Debug\net8.0\OddEvenChecker.dll
+C:\github\C-Sharp\OddEvenChecker\OddEvenChecker\obj\Debug\net8.0\refint\OddEvenChecker.dll
+C:\github\C-Sharp\OddEvenChecker\OddEvenChecker\obj\Debug\net8.0\OddEvenChecker.pdb
+C:\github\C-Sharp\OddEvenChecker\OddEvenChecker\obj\Debug\net8.0\OddEvenChecker.genruntimeconfig.cache
+C:\github\C-Sharp\OddEvenChecker\OddEvenChecker\obj\Debug\net8.0\ref\OddEvenChecker.dll
