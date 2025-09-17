@@ -1,0 +1,14 @@
+C:\github\C-Sharp\BankAccountApp\BankAccountApp\bin\Debug\net8.0\BankAccountApp.exe
+C:\github\C-Sharp\BankAccountApp\BankAccountApp\bin\Debug\net8.0\BankAccountApp.deps.json
+C:\github\C-Sharp\BankAccountApp\BankAccountApp\bin\Debug\net8.0\BankAccountApp.runtimeconfig.json
+C:\github\C-Sharp\BankAccountApp\BankAccountApp\bin\Debug\net8.0\BankAccountApp.dll
+C:\github\C-Sharp\BankAccountApp\BankAccountApp\bin\Debug\net8.0\BankAccountApp.pdb
+C:\github\C-Sharp\BankAccountApp\BankAccountApp\obj\Debug\net8.0\BankAccountApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\C-Sharp\BankAccountApp\BankAccountApp\obj\Debug\net8.0\BankAccountApp.AssemblyInfoInputs.cache
+C:\github\C-Sharp\BankAccountApp\BankAccountApp\obj\Debug\net8.0\BankAccountApp.AssemblyInfo.cs
+C:\github\C-Sharp\BankAccountApp\BankAccountApp\obj\Debug\net8.0\BankAccountApp.csproj.CoreCompileInputs.cache
+C:\github\C-Sharp\BankAccountApp\BankAccountApp\obj\Debug\net8.0\BankAccountApp.dll
+C:\github\C-Sharp\BankAccountApp\BankAccountApp\obj\Debug\net8.0\refint\BankAccountApp.dll
+C:\github\C-Sharp\BankAccountApp\BankAccountApp\obj\Debug\net8.0\BankAccountApp.pdb
+C:\github\C-Sharp\BankAccountApp\BankAccountApp\obj\Debug\net8.0\BankAccountApp.genruntimeconfig.cache
+C:\github\C-Sharp\BankAccountApp\BankAccountApp\obj\Debug\net8.0\ref\BankAccountApp.dll
