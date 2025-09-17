@@ -1,0 +1,14 @@
+C:\github\C-Sharp\DisposeExample\DisposeExample\bin\Debug\net8.0\DisposeExample.exe
+C:\github\C-Sharp\DisposeExample\DisposeExample\bin\Debug\net8.0\DisposeExample.deps.json
+C:\github\C-Sharp\DisposeExample\DisposeExample\bin\Debug\net8.0\DisposeExample.runtimeconfig.json
+C:\github\C-Sharp\DisposeExample\DisposeExample\bin\Debug\net8.0\DisposeExample.dll
+C:\github\C-Sharp\DisposeExample\DisposeExample\bin\Debug\net8.0\DisposeExample.pdb
+C:\github\C-Sharp\DisposeExample\DisposeExample\obj\Debug\net8.0\DisposeExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\C-Sharp\DisposeExample\DisposeExample\obj\Debug\net8.0\DisposeExample.AssemblyInfoInputs.cache
+C:\github\C-Sharp\DisposeExample\DisposeExample\obj\Debug\net8.0\DisposeExample.AssemblyInfo.cs
+C:\github\C-Sharp\DisposeExample\DisposeExample\obj\Debug\net8.0\DisposeExample.csproj.CoreCompileInputs.cache
+C:\github\C-Sharp\DisposeExample\DisposeExample\obj\Debug\net8.0\DisposeExample.dll
+C:\github\C-Sharp\DisposeExample\DisposeExample\obj\Debug\net8.0\refint\DisposeExample.dll
+C:\github\C-Sharp\DisposeExample\DisposeExample\obj\Debug\net8.0\DisposeExample.pdb
+C:\github\C-Sharp\DisposeExample\DisposeExample\obj\Debug\net8.0\DisposeExample.genruntimeconfig.cache
+C:\github\C-Sharp\DisposeExample\DisposeExample\obj\Debug\net8.0\ref\DisposeExample.dll
