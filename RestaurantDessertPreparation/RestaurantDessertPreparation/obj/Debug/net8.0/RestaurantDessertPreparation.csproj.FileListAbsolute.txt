@@ -1,0 +1,14 @@
+C:\github\C-Sharp\RestaurantDessertPreparation\RestaurantDessertPreparation\bin\Debug\net8.0\RestaurantDessertPreparation.exe
+C:\github\C-Sharp\RestaurantDessertPreparation\RestaurantDessertPreparation\bin\Debug\net8.0\RestaurantDessertPreparation.deps.json
+C:\github\C-Sharp\RestaurantDessertPreparation\RestaurantDessertPreparation\bin\Debug\net8.0\RestaurantDessertPreparation.runtimeconfig.json
+C:\github\C-Sharp\RestaurantDessertPreparation\RestaurantDessertPreparation\bin\Debug\net8.0\RestaurantDessertPreparation.dll
+C:\github\C-Sharp\RestaurantDessertPreparation\RestaurantDessertPreparation\bin\Debug\net8.0\RestaurantDessertPreparation.pdb
+C:\github\C-Sharp\RestaurantDessertPreparation\RestaurantDessertPreparation\obj\Debug\net8.0\RestaurantDessertPreparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\C-Sharp\RestaurantDessertPreparation\RestaurantDessertPreparation\obj\Debug\net8.0\RestaurantDessertPreparation.AssemblyInfoInputs.cache
+C:\github\C-Sharp\RestaurantDessertPreparation\RestaurantDessertPreparation\obj\Debug\net8.0\RestaurantDessertPreparation.AssemblyInfo.cs
+C:\github\C-Sharp\RestaurantDessertPreparation\RestaurantDessertPreparation\obj\Debug\net8.0\RestaurantDessertPreparation.csproj.CoreCompileInputs.cache
+C:\github\C-Sharp\RestaurantDessertPreparation\RestaurantDessertPreparation\obj\Debug\net8.0\RestaurantDessertPreparation.dll
+C:\github\C-Sharp\RestaurantDessertPreparation\RestaurantDessertPreparation\obj\Debug\net8.0\refint\RestaurantDessertPreparation.dll
+C:\github\C-Sharp\RestaurantDessertPreparation\RestaurantDessertPreparation\obj\Debug\net8.0\RestaurantDessertPreparation.pdb
+C:\github\C-Sharp\RestaurantDessertPreparation\RestaurantDessertPreparation\obj\Debug\net8.0\RestaurantDessertPreparation.genruntimeconfig.cache
+C:\github\C-Sharp\RestaurantDessertPreparation\RestaurantDessertPreparation\obj\Debug\net8.0\ref\RestaurantDessertPreparation.dll
