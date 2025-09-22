@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "SquareCalculator": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

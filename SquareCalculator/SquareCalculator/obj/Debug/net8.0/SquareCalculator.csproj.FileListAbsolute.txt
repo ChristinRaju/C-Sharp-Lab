@@ -1,0 +1,14 @@
+C:\github\C-Sharp\SquareCalculator\SquareCalculator\bin\Debug\net8.0\SquareCalculator.exe
+C:\github\C-Sharp\SquareCalculator\SquareCalculator\bin\Debug\net8.0\SquareCalculator.deps.json
+C:\github\C-Sharp\SquareCalculator\SquareCalculator\bin\Debug\net8.0\SquareCalculator.runtimeconfig.json
+C:\github\C-Sharp\SquareCalculator\SquareCalculator\bin\Debug\net8.0\SquareCalculator.dll
+C:\github\C-Sharp\SquareCalculator\SquareCalculator\bin\Debug\net8.0\SquareCalculator.pdb
+C:\github\C-Sharp\SquareCalculator\SquareCalculator\obj\Debug\net8.0\SquareCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\C-Sharp\SquareCalculator\SquareCalculator\obj\Debug\net8.0\SquareCalculator.AssemblyInfoInputs.cache
+C:\github\C-Sharp\SquareCalculator\SquareCalculator\obj\Debug\net8.0\SquareCalculator.AssemblyInfo.cs
+C:\github\C-Sharp\SquareCalculator\SquareCalculator\obj\Debug\net8.0\SquareCalculator.csproj.CoreCompileInputs.cache
+C:\github\C-Sharp\SquareCalculator\SquareCalculator\obj\Debug\net8.0\SquareCalculator.dll
+C:\github\C-Sharp\SquareCalculator\SquareCalculator\obj\Debug\net8.0\refint\SquareCalculator.dll
+C:\github\C-Sharp\SquareCalculator\SquareCalculator\obj\Debug\net8.0\SquareCalculator.pdb
+C:\github\C-Sharp\SquareCalculator\SquareCalculator\obj\Debug\net8.0\SquareCalculator.genruntimeconfig.cache
+C:\github\C-Sharp\SquareCalculator\SquareCalculator\obj\Debug\net8.0\ref\SquareCalculator.dll
