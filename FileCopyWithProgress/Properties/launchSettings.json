@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "FileCopyWithProgress": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
