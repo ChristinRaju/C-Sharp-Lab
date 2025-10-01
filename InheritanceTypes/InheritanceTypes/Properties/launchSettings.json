@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "InheritanceTypes": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

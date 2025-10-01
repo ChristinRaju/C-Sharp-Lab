@@ -1,0 +1,14 @@
+C:\github\C-Sharp\InheritanceTypes\InheritanceTypes\bin\Debug\net8.0\InheritanceTypes.exe
+C:\github\C-Sharp\InheritanceTypes\InheritanceTypes\bin\Debug\net8.0\InheritanceTypes.deps.json
+C:\github\C-Sharp\InheritanceTypes\InheritanceTypes\bin\Debug\net8.0\InheritanceTypes.runtimeconfig.json
+C:\github\C-Sharp\InheritanceTypes\InheritanceTypes\bin\Debug\net8.0\InheritanceTypes.dll
+C:\github\C-Sharp\InheritanceTypes\InheritanceTypes\bin\Debug\net8.0\InheritanceTypes.pdb
+C:\github\C-Sharp\InheritanceTypes\InheritanceTypes\obj\Debug\net8.0\InheritanceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\C-Sharp\InheritanceTypes\InheritanceTypes\obj\Debug\net8.0\InheritanceTypes.AssemblyInfoInputs.cache
+C:\github\C-Sharp\InheritanceTypes\InheritanceTypes\obj\Debug\net8.0\InheritanceTypes.AssemblyInfo.cs
+C:\github\C-Sharp\InheritanceTypes\InheritanceTypes\obj\Debug\net8.0\InheritanceTypes.csproj.CoreCompileInputs.cache
+C:\github\C-Sharp\InheritanceTypes\InheritanceTypes\obj\Debug\net8.0\InheritanceTypes.dll
+C:\github\C-Sharp\InheritanceTypes\InheritanceTypes\obj\Debug\net8.0\refint\InheritanceTypes.dll
+C:\github\C-Sharp\InheritanceTypes\InheritanceTypes\obj\Debug\net8.0\InheritanceTypes.pdb
+C:\github\C-Sharp\InheritanceTypes\InheritanceTypes\obj\Debug\net8.0\InheritanceTypes.genruntimeconfig.cache
+C:\github\C-Sharp\InheritanceTypes\InheritanceTypes\obj\Debug\net8.0\ref\InheritanceTypes.dll
