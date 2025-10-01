@@ -1,0 +1,14 @@
+C:\github\C-Sharp\ReadPerson\ReadPerson\bin\Debug\net8.0\ReadPerson.exe
+C:\github\C-Sharp\ReadPerson\ReadPerson\bin\Debug\net8.0\ReadPerson.deps.json
+C:\github\C-Sharp\ReadPerson\ReadPerson\bin\Debug\net8.0\ReadPerson.runtimeconfig.json
+C:\github\C-Sharp\ReadPerson\ReadPerson\bin\Debug\net8.0\ReadPerson.dll
+C:\github\C-Sharp\ReadPerson\ReadPerson\bin\Debug\net8.0\ReadPerson.pdb
+C:\github\C-Sharp\ReadPerson\ReadPerson\obj\Debug\net8.0\ReadPerson.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\C-Sharp\ReadPerson\ReadPerson\obj\Debug\net8.0\ReadPerson.AssemblyInfoInputs.cache
+C:\github\C-Sharp\ReadPerson\ReadPerson\obj\Debug\net8.0\ReadPerson.AssemblyInfo.cs
+C:\github\C-Sharp\ReadPerson\ReadPerson\obj\Debug\net8.0\ReadPerson.csproj.CoreCompileInputs.cache
+C:\github\C-Sharp\ReadPerson\ReadPerson\obj\Debug\net8.0\ReadPerson.dll
+C:\github\C-Sharp\ReadPerson\ReadPerson\obj\Debug\net8.0\refint\ReadPerson.dll
+C:\github\C-Sharp\ReadPerson\ReadPerson\obj\Debug\net8.0\ReadPerson.pdb
+C:\github\C-Sharp\ReadPerson\ReadPerson\obj\Debug\net8.0\ReadPerson.genruntimeconfig.cache
+C:\github\C-Sharp\ReadPerson\ReadPerson\obj\Debug\net8.0\ref\ReadPerson.dll

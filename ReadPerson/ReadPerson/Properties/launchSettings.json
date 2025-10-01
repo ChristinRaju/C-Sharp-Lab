@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ReadPerson": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
