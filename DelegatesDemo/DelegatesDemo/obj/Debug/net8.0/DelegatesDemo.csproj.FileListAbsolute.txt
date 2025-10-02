@@ -1,0 +1,14 @@
+C:\github\C-Sharp\DelegatesDemo\DelegatesDemo\bin\Debug\net8.0\DelegatesDemo.exe
+C:\github\C-Sharp\DelegatesDemo\DelegatesDemo\bin\Debug\net8.0\DelegatesDemo.deps.json
+C:\github\C-Sharp\DelegatesDemo\DelegatesDemo\bin\Debug\net8.0\DelegatesDemo.runtimeconfig.json
+C:\github\C-Sharp\DelegatesDemo\DelegatesDemo\bin\Debug\net8.0\DelegatesDemo.dll
+C:\github\C-Sharp\DelegatesDemo\DelegatesDemo\bin\Debug\net8.0\DelegatesDemo.pdb
+C:\github\C-Sharp\DelegatesDemo\DelegatesDemo\obj\Debug\net8.0\DelegatesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\C-Sharp\DelegatesDemo\DelegatesDemo\obj\Debug\net8.0\DelegatesDemo.AssemblyInfoInputs.cache
+C:\github\C-Sharp\DelegatesDemo\DelegatesDemo\obj\Debug\net8.0\DelegatesDemo.AssemblyInfo.cs
+C:\github\C-Sharp\DelegatesDemo\DelegatesDemo\obj\Debug\net8.0\DelegatesDemo.csproj.CoreCompileInputs.cache
+C:\github\C-Sharp\DelegatesDemo\DelegatesDemo\obj\Debug\net8.0\DelegatesDemo.dll
+C:\github\C-Sharp\DelegatesDemo\DelegatesDemo\obj\Debug\net8.0\refint\DelegatesDemo.dll
+C:\github\C-Sharp\DelegatesDemo\DelegatesDemo\obj\Debug\net8.0\DelegatesDemo.pdb
+C:\github\C-Sharp\DelegatesDemo\DelegatesDemo\obj\Debug\net8.0\DelegatesDemo.genruntimeconfig.cache
+C:\github\C-Sharp\DelegatesDemo\DelegatesDemo\obj\Debug\net8.0\ref\DelegatesDemo.dll
