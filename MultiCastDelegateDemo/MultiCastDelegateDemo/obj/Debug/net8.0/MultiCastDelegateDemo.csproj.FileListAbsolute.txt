@@ -1,0 +1,14 @@
+C:\github\C-Sharp\MultiCastDelegateDemo\MultiCastDelegateDemo\bin\Debug\net8.0\MultiCastDelegateDemo.exe
+C:\github\C-Sharp\MultiCastDelegateDemo\MultiCastDelegateDemo\bin\Debug\net8.0\MultiCastDelegateDemo.deps.json
+C:\github\C-Sharp\MultiCastDelegateDemo\MultiCastDelegateDemo\bin\Debug\net8.0\MultiCastDelegateDemo.runtimeconfig.json
+C:\github\C-Sharp\MultiCastDelegateDemo\MultiCastDelegateDemo\bin\Debug\net8.0\MultiCastDelegateDemo.dll
+C:\github\C-Sharp\MultiCastDelegateDemo\MultiCastDelegateDemo\bin\Debug\net8.0\MultiCastDelegateDemo.pdb
+C:\github\C-Sharp\MultiCastDelegateDemo\MultiCastDelegateDemo\obj\Debug\net8.0\MultiCastDelegateDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\C-Sharp\MultiCastDelegateDemo\MultiCastDelegateDemo\obj\Debug\net8.0\MultiCastDelegateDemo.AssemblyInfoInputs.cache
+C:\github\C-Sharp\MultiCastDelegateDemo\MultiCastDelegateDemo\obj\Debug\net8.0\MultiCastDelegateDemo.AssemblyInfo.cs
+C:\github\C-Sharp\MultiCastDelegateDemo\MultiCastDelegateDemo\obj\Debug\net8.0\MultiCastDelegateDemo.csproj.CoreCompileInputs.cache
+C:\github\C-Sharp\MultiCastDelegateDemo\MultiCastDelegateDemo\obj\Debug\net8.0\MultiCastDelegateDemo.dll
+C:\github\C-Sharp\MultiCastDelegateDemo\MultiCastDelegateDemo\obj\Debug\net8.0\refint\MultiCastDelegateDemo.dll
+C:\github\C-Sharp\MultiCastDelegateDemo\MultiCastDelegateDemo\obj\Debug\net8.0\MultiCastDelegateDemo.pdb
+C:\github\C-Sharp\MultiCastDelegateDemo\MultiCastDelegateDemo\obj\Debug\net8.0\MultiCastDelegateDemo.genruntimeconfig.cache
+C:\github\C-Sharp\MultiCastDelegateDemo\MultiCastDelegateDemo\obj\Debug\net8.0\ref\MultiCastDelegateDemo.dll

@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MultiCastDelegateDemo": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
