@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "HomeSecuritySystem": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

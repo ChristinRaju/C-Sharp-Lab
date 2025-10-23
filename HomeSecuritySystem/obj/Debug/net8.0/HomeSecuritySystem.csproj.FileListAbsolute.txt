@@ -1,0 +1,14 @@
+C:\Users\BCA 45\Documents\C#_Christin\HomeSecuritySystem\bin\Debug\net8.0\HomeSecuritySystem.exe
+C:\Users\BCA 45\Documents\C#_Christin\HomeSecuritySystem\bin\Debug\net8.0\HomeSecuritySystem.deps.json
+C:\Users\BCA 45\Documents\C#_Christin\HomeSecuritySystem\bin\Debug\net8.0\HomeSecuritySystem.runtimeconfig.json
+C:\Users\BCA 45\Documents\C#_Christin\HomeSecuritySystem\bin\Debug\net8.0\HomeSecuritySystem.dll
+C:\Users\BCA 45\Documents\C#_Christin\HomeSecuritySystem\bin\Debug\net8.0\HomeSecuritySystem.pdb
+C:\Users\BCA 45\Documents\C#_Christin\HomeSecuritySystem\obj\Debug\net8.0\HomeSecuritySystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BCA 45\Documents\C#_Christin\HomeSecuritySystem\obj\Debug\net8.0\HomeSecuritySystem.AssemblyInfoInputs.cache
+C:\Users\BCA 45\Documents\C#_Christin\HomeSecuritySystem\obj\Debug\net8.0\HomeSecuritySystem.AssemblyInfo.cs
+C:\Users\BCA 45\Documents\C#_Christin\HomeSecuritySystem\obj\Debug\net8.0\HomeSecuritySystem.csproj.CoreCompileInputs.cache
+C:\Users\BCA 45\Documents\C#_Christin\HomeSecuritySystem\obj\Debug\net8.0\HomeSecuritySystem.dll
+C:\Users\BCA 45\Documents\C#_Christin\HomeSecuritySystem\obj\Debug\net8.0\refint\HomeSecuritySystem.dll
+C:\Users\BCA 45\Documents\C#_Christin\HomeSecuritySystem\obj\Debug\net8.0\HomeSecuritySystem.pdb
+C:\Users\BCA 45\Documents\C#_Christin\HomeSecuritySystem\obj\Debug\net8.0\HomeSecuritySystem.genruntimeconfig.cache
+C:\Users\BCA 45\Documents\C#_Christin\HomeSecuritySystem\obj\Debug\net8.0\ref\HomeSecuritySystem.dll
