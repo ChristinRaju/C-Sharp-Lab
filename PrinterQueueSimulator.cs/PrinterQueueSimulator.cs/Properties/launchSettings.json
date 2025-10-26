@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "PrinterQueueSimulator.cs": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
