@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TextEditorUndoRedo.cs": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

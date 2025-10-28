@@ -1,0 +1,14 @@
+C:\github\C-Sharp\TextEditorUndoRedo.cs\TextEditorUndoRedo.cs\bin\Debug\net8.0\TextEditorUndoRedo.cs.exe
+C:\github\C-Sharp\TextEditorUndoRedo.cs\TextEditorUndoRedo.cs\bin\Debug\net8.0\TextEditorUndoRedo.cs.deps.json
+C:\github\C-Sharp\TextEditorUndoRedo.cs\TextEditorUndoRedo.cs\bin\Debug\net8.0\TextEditorUndoRedo.cs.runtimeconfig.json
+C:\github\C-Sharp\TextEditorUndoRedo.cs\TextEditorUndoRedo.cs\bin\Debug\net8.0\TextEditorUndoRedo.cs.dll
+C:\github\C-Sharp\TextEditorUndoRedo.cs\TextEditorUndoRedo.cs\bin\Debug\net8.0\TextEditorUndoRedo.cs.pdb
+C:\github\C-Sharp\TextEditorUndoRedo.cs\TextEditorUndoRedo.cs\obj\Debug\net8.0\TextEditorUndoRedo.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\C-Sharp\TextEditorUndoRedo.cs\TextEditorUndoRedo.cs\obj\Debug\net8.0\TextEditorUndoRedo.cs.AssemblyInfoInputs.cache
+C:\github\C-Sharp\TextEditorUndoRedo.cs\TextEditorUndoRedo.cs\obj\Debug\net8.0\TextEditorUndoRedo.cs.AssemblyInfo.cs
+C:\github\C-Sharp\TextEditorUndoRedo.cs\TextEditorUndoRedo.cs\obj\Debug\net8.0\TextEditorUndoRedo.cs.csproj.CoreCompileInputs.cache
+C:\github\C-Sharp\TextEditorUndoRedo.cs\TextEditorUndoRedo.cs\obj\Debug\net8.0\TextEditorUndoRedo.cs.dll
+C:\github\C-Sharp\TextEditorUndoRedo.cs\TextEditorUndoRedo.cs\obj\Debug\net8.0\refint\TextEditorUndoRedo.cs.dll
+C:\github\C-Sharp\TextEditorUndoRedo.cs\TextEditorUndoRedo.cs\obj\Debug\net8.0\TextEditorUndoRedo.cs.pdb
+C:\github\C-Sharp\TextEditorUndoRedo.cs\TextEditorUndoRedo.cs\obj\Debug\net8.0\TextEditorUndoRedo.cs.genruntimeconfig.cache
+C:\github\C-Sharp\TextEditorUndoRedo.cs\TextEditorUndoRedo.cs\obj\Debug\net8.0\ref\TextEditorUndoRedo.cs.dll
