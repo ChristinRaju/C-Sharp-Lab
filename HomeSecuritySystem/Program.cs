@@ -1,26 +1,44 @@
-﻿namespace HomeSecuritySystemDemo
+using System;
+
+namespace HomeSecuritySystemDemo
 {
+    // Custom EventArgs class to hold event data
+    public class MotionEventArgs : EventArgs
+    {
+        public string Location { get; }
+
+        public MotionEventArgs(string location)
+        {
+            Location = location;
+        }
+    }
+
     // Publisher class (Motion Sensor)
     public class MotionSensor
     {
-        public delegate void MotionDetectedHandler(string message);
+        // Declare event using built-in EventHandler<T>
+        public event EventHandler<MotionEventArgs>? MotionDetected;
 
-        public event MotionDetectedHandler MotionDetected;
-
-        // Method to trigger the event when motion is detected
+        // Method to trigger the event
         public void DetectMotion(string location)
         {
             Console.WriteLine("Motion Sensor: Motion detected.");
-            MotionDetected?.Invoke(location);
+            OnMotionDetected(new MotionEventArgs(location));
+        }
+
+        // Protected virtual method to raise the event
+        protected virtual void OnMotionDetected(MotionEventArgs e)
+        {
+            MotionDetected?.Invoke(this, e);
         }
     }
 
     // Subscriber class (Security System)
     public class SecuritySystem
     {
-        public void OnMotionDetected(string location)
+        public void OnMotionDetected(object? sender, MotionEventArgs e)
         {
-            Console.WriteLine($"Security System: Motion detected at {location}. Notifying the homeowner...");
+            Console.WriteLine($"Security System: Motion detected at {e.Location}. Notifying the homeowner...");
         }
     }
 
@@ -28,14 +46,15 @@
     {
         static void Main(string[] args)
         {
-            // Create instances of MotionSensor (Publisher) and SecuritySystem (Subscriber)
+            // Create instances
             MotionSensor motionSensor = new MotionSensor();
             SecuritySystem securitySystem = new SecuritySystem();
 
+            // Subscribe to the event
             motionSensor.MotionDetected += securitySystem.OnMotionDetected;
 
+            // Simulate motion detection
             motionSensor.DetectMotion("Living Room");
-
             motionSensor.DetectMotion("Hallway");
         }
     }
