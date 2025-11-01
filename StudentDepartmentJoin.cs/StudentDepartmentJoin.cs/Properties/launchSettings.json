@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "StudentDepartmentJoin.cs": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
