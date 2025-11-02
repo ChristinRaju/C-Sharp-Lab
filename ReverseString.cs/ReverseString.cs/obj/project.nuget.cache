@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rJAogmv8W/M=",
+  "success": true,
+  "projectFilePath": "C:\\github\\C-Sharp\\ReverseString.cs\\ReverseString.cs\\ReverseString.cs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Christin Raju\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}

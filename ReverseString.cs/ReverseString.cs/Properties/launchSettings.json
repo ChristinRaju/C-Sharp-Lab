@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ReverseString.cs": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
