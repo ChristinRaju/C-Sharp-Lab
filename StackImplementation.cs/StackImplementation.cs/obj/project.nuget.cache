@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e0WJgQUuiro=",
+  "success": true,
+  "projectFilePath": "C:\\github\\C-Sharp\\StackImplementation.cs\\StackImplementation.cs\\StackImplementation.cs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Christin Raju\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.22.1\\microsoft.visualstudio.azure.containers.tools.targets.1.22.1.nupkg.sha512"
+  ],
+  "logs": []
+}
