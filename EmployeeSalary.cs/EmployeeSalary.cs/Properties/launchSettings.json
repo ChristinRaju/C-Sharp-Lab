@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EmployeeSalary.cs": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
